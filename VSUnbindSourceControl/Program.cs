@@ -4,12 +4,12 @@
 // </copyright>
 // <author>Ing. Josef Hahnl, MBA - User</author>
 // <email>hahnl@aon.at</email>
-// <date>24.08.2016 10:51:33</date>
+// <date>24.08.2016 10:55:10</date>
 // <information solution="VSUnbindSourceControl" project="VSUnbindSourceControl" framework=".NET Framework 4.0" kind="Windows (C#)">
-//     <file type=".cs" created="17.08.2016 17:33:10" modified="24.08.2016 10:51:33" lastAccess="24.08.2016 10:51:33">
+//     <file type=".cs" created="17.08.2016 17:33:10" modified="24.08.2016 10:55:10" lastAccess="24.08.2016 10:55:10">
 //         E:\Syntony\Projects\Tools.Collection\VS_unbind_source_control\VSUnbindSourceControl\Program.cs
 //     </file>
-//     <lines total="413" netLines="368" codeLines="285" allCommentLines="83" commentLines="49" documentationLines="34" blankLines="45" codeRatio="69.01 %"/>
+//     <lines total="414" netLines="369" codeLines="285" allCommentLines="84" commentLines="49" documentationLines="35" blankLines="45" codeRatio="68.84 %"/>
 //     <language>C#</language>
 //     <identifiers>
 //         <namespace>VSUnbindSourceControl</namespace>
@@ -37,6 +37,7 @@ namespace VSUnbindSourceControl
     using JetBrains.Annotations;
 
     /// <summary>The program.</summary>
+    /// <devdoc>https://github.com/saveenr/VS_unbind_source_control</devdoc>
     public class Program
     {
         /// <summary>Deletes the file.</summary>
